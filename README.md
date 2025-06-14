@@ -87,8 +87,7 @@ Markdown
 
 The project follows a standard Create React App structure with some logical organization for scalability:
 
-
-
+````
 wattwayz-website/
 ├── public/ # Static assets, index.html, favicon
 ├── src/
@@ -101,7 +100,7 @@ wattwayz-website/
 ├── .gitignore # Files and folders to be ignored by Git
 ├── package.json # Project dependencies and scripts
 └── README.md # This file
-
+````
 ---
 
 ## 📦 Building for Production

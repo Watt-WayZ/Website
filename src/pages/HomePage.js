@@ -16,7 +16,7 @@ const HomePage = ({ setCurrentPage, showModal }) => {
      <DriversSection />
      <OwnersSection setCurrentPage={setCurrentPage} />
      <HowItWorksSection />
-     <TestimonialsSection />
+     {/* <TestimonialsSection /> */}
      <FinalCTASection setCurrentPage={setCurrentPage} />
    </>
  );

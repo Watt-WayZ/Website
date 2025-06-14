@@ -42,7 +42,7 @@ You can check if you have them installed by running these commands in your termi
 ````sh
 node -v
 npm -v
-
+````
 
 ### Installation & Setup
 
@@ -118,7 +118,3 @@ To create an optimized production build of the application:
 ---
 *This README was last updated on June 15, 2025.*
 
-
-
-
-````

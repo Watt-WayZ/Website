@@ -1,7 +1,7 @@
 {
   "name": "wattwayz-website",
   "version": "0.1.0",
-  "homepage": "https://wattwayz2024.github.io/Watt-WayZ/Website",
+  "homepage": "https://Watt-WayZ.github.io/Website",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

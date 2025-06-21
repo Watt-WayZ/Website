@@ -24,7 +24,7 @@ const HomePage = ({ setCurrentPage, showModal }) => {
 
 
 // --- Sub-components for HomePage ---
-
+// adding a comment to test git
 
 const FeatureCard = ({ icon, title, description }) => (
  <div className={styles_home.featureCard}>

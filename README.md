@@ -111,5 +111,5 @@ To create an optimized production build of the application:
 2.  This will create a `build` folder in your project directory with all the static files needed for deployment. You can then deploy this `build` folder to any static hosting service (like Netlify, Vercel, or AWS S3).
 
 ---
-*This README was last updated on June 15, 2025.*
+*This README was last updated on June 22, 2025.*
 

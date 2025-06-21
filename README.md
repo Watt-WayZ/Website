@@ -79,10 +79,6 @@ The page will reload automatically if you make any edits to the source files.
 
 ---
 
-Of course. Here is the remainder of the README.md file content, starting from the "Folder Structure" section.
-Markdown
----
-
 ## 📁 Folder Structure
 
 The project follows a standard Create React App structure with some logical organization for scalability:
